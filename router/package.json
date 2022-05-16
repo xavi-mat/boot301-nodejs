@@ -1,0 +1,15 @@
+{
+  "name": "router",
+  "version": "1.0.0",
+  "description": "Exercise NodeJS part 2 - Router - The Bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Xavimat",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
