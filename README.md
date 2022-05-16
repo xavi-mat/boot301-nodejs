@@ -4,19 +4,16 @@ by [@xavi-mat](@xavi-mat)
 
 ## Part 1
 
-### 1.
-Create a server that shows a message on the console.
+### 1. Create a server that shows a message on the console.
 
 [ej1](./ej1/)
 
-### 2.
-Create a server with the [logplease](https://www.npmjs.com/package/logplease)
+### 2. Create a server with the [logplease](https://www.npmjs.com/package/logplease)
 module.
 
 [ej2](./ej2/)
 
-### 3.
-Create a server and a module to import.
+### 3. Create a server and a module to import.
 
 [ej3](./ej3/)
 
