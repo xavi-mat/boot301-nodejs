@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio_3",
+  "version": "1.0.0",
+  "description": "Ejercicio 3 - Node JS - The Bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Xavimat",
+  "license": "ISC",
+  "devDependencies": {
+    "logplease": "^1.2.15"
+  }
+}
