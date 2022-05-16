@@ -8,8 +8,7 @@ by [@xavi-mat](@xavi-mat)
 
 [ej1](./ej1/)
 
-### 2. Create a server with the [logplease](https://www.npmjs.com/package/logplease)
-module.
+### 2. Create a server with the [logplease](https://www.npmjs.com/package/logplease) module.
 
 [ej2](./ej2/)
 
