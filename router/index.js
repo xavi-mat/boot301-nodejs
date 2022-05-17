@@ -26,9 +26,9 @@ http.createServer((req, res) => {
             res.write(data);
             return res.end();
         } catch (error) {
-            res.writeHead(404, { "Content-Type": "text/html" });
+            res.writeHead(500, { "Content-Type": "text/html" });
             console.error(error);
-            return res.end("404 Not Found");
+            return res.end("Something went wrong");
         }
     })
 }).listen(8080);
